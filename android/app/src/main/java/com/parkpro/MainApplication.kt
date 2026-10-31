@@ -1,4 +1,4 @@
-package com.parkpro
+package com.basic-rn
 
 import android.app.Application
 import com.facebook.react.PackageList

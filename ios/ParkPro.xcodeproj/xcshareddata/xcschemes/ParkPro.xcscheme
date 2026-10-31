@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ParkPro.app"
-               BlueprintName = "ParkPro"
-               ReferencedContainer = "container:ParkPro.xcodeproj">
+               BuildableName = "basic-RN.app"
+               BlueprintName = "basic-RN"
+               ReferencedContainer = "container:basic-RN.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ParkProTests.xctest"
-               BlueprintName = "ParkProTests"
-               ReferencedContainer = "container:ParkPro.xcodeproj">
+               BuildableName = "basic-RNTests.xctest"
+               BlueprintName = "basic-RNTests"
+               ReferencedContainer = "container:basic-RN.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ParkPro.app"
-            BlueprintName = "ParkPro"
-            ReferencedContainer = "container:ParkPro.xcodeproj">
+            BuildableName = "basic-RN.app"
+            BlueprintName = "basic-RN"
+            ReferencedContainer = "container:basic-RN.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ParkPro.app"
-            BlueprintName = "ParkPro"
-            ReferencedContainer = "container:ParkPro.xcodeproj">
+            BuildableName = "basic-RN.app"
+            BlueprintName = "basic-RN"
+            ReferencedContainer = "container:basic-RN.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

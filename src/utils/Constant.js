@@ -1,4 +1,4 @@
-const prodUrl = 'https://api.parkpro.one/';
+const prodUrl = 'https://api.basic-rn.one/';
 const devUrl = 'http://192.168.0.111:8001'
 
 let apiUrl = devUrl;
@@ -10,7 +10,7 @@ const Constants = {
     black: '#000000',
     customblack: '#1E1E1E',
     white: '#FFFFFF',
-    customgrey: '#808080',
+    customgrey: '#480606',
 
     red: '#FF0000',
     light_red: '#462128',
